@@ -1,2 +1,2 @@
 # UG_MATLAB_Coursework
-Program assignments for ICICC10
+Programming assignments for an elementary undergraduate MATLAB/SIMULINK course.
